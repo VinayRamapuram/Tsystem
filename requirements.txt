@@ -1,0 +1,3 @@
+pandas
+pandas-read-xml
+pytest
