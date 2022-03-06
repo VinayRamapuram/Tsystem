@@ -8,8 +8,10 @@ Tech Assesment Exercise One and two
     * Use pytest for testcases
     * Go to exercise_one file run main function. It logs outut in console as well in file.
     * Do same for exercise_two as well.
+    * Implemented custom logger.
 
-# Find project in git
+# git repo
+https://github.com/VinayRamapuram/Tsystem
 
 
     
